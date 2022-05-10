@@ -1,0 +1,3541 @@
+
+.LandingPage_LandingPage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 4975px;
+	background : rgba(255,255,255,1);
+}
+.LandingPage_LandingPage .SEARCH {
+	position: absolute;
+	left: 419.46942138671875px;
+	top: 4135.00048828125px;
+	width: 42.333333333333336%;
+	height: 1.2864321608040201%;
+}
+.LandingPage_LandingPage .SEARCH .RoundedRectangle3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .SEARCH .RoundedRectangle3 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .SEARCH .RoundedRectangle3 .Vector_1 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 99.68503937007874%;
+	height: 96.875%;
+}
+.LandingPage_LandingPage .SEARCH .RoundedRectangle3copy {
+	position: absolute;
+	left: 508px;
+	top: 0px;
+	width: 20%;
+	height: 100%;
+}
+.LandingPage_LandingPage .SEARCH .Search {
+	position: absolute;
+	left: 535.5px;
+	top: 17px;
+	width: 11.338582677165354%;
+	height: 46.875%;
+	color : rgba(255,255,255,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .SEARCH .Searchquery {
+	position: absolute;
+	left: 21px;
+	top: 23px;
+	width: 18.425196850393704%;
+	height: 34.375%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .NEWS {
+	position: absolute;
+	left: 633.514404296875px;
+	top: 3337.0009765625px;
+	width: 15.531412760416666%;
+	height: 1.0251256281407035%;
+}
+.LandingPage_LandingPage .NEWS .LATESTNEWS {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 34px;
+	font-weight: 600;
+	line-height: 39.84375px;
+}
+.LandingPage_LandingPage .OfferBanner {
+	position: absolute;
+	left: -208.4776611328125px;
+	top: 165.2655029296875px;
+	width: 1918.477783203125px;
+	height: 653.7344360351562px;
+}
+.LandingPage_LandingPage .OfferBanner .PromotionImage {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1918.477783203125px;
+	height: 653.7344360351562px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .OfferBanner .Title {
+	position: absolute;
+	left: 309.478271484375px;
+	top: 258.73443603515625px;
+	width: 573.1688842773438px;
+	height: 228.48971557617188px;
+	color : rgba(255,255,255,1);
+	font-family: Poppins;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 96px;
+}
+.LandingPage_LandingPage .BANNERS {
+	position: absolute;
+	left: 105.24273681640625px;
+	top: 696.0132446289062px;
+	width: 83.52427571614584%;
+	height: 7.808612152559673%;
+}
+.LandingPage_LandingPage .BANNERS .banner {
+	position: absolute;
+	left: 0px;
+	top: 30.1634521484375px;
+	width: 33.35885266015964%;
+	height: 92.23548904912008%;
+}
+.LandingPage_LandingPage .BANNERS .banner .base {
+	position: absolute;
+	left: 0.000152587890625px;
+	top: 1.354156494140625px;
+	width: 99.99996349057552%;
+	height: 83.73515258065017%;
+}
+.LandingPage_LandingPage .BANNERS .banner .imageProduct {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 417.94091796875px;
+	height: 358.31500244140625px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .BANNERS .banner .pic {
+	position: absolute;
+	left: 103.52674865722656px;
+	top: 34.904449462890625px;
+	width: 0.17178779495781482%;
+	height: 0.20010618957103946%;
+}
+.LandingPage_LandingPage .BANNERS .banner .pic .iPhone6s_discover_desktop_08_iOS9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .BANNERS .banner .FSQUILTEDMAXICROSSBAG {
+	position: absolute;
+	left: 52.42919921875px;
+	top: 29.0408935546875px;
+	width: 48.37551315821563%;
+	height: 16.209206060062005%;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+}
+.LandingPage_LandingPage .BANNERS .banner ._29943 {
+	position: absolute;
+	left: 277.7578125px;
+	top: 277.53485107421875px;
+	width: 117.81832885742188px;
+	height: 39.29144287109375px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Raleway;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 54px;
+}
+.LandingPage_LandingPage .BANNERS .banner .Discount {
+	position: absolute;
+	left: 52.42919921875px;
+	top: 272.90765380859375px;
+	width: 156.5411376953125px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .BANNERS .banner .Discount ._53433 {
+	position: relative;
+	margin-right: 8px;
+	width: 73px;
+	height: 27px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .BANNERS .banner .Discount ._24Off {
+	position: relative;
+	margin-right: 8px;
+	width: 75.54114532470703px;
+	height: 27px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .BANNERS .banner_1 {
+	position: absolute;
+	left: 835.8817749023438px;
+	top: 31.517608642578125px;
+	width: 33.28232878123105%;
+	height: 87.7524713539134%;
+}
+.LandingPage_LandingPage .BANNERS .banner_1 .base_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BANNERS .banner_2 {
+	position: absolute;
+	left: 417.94134521484375px;
+	top: 0px;
+	width: 33.3588380452095%;
+	height: 95.8655618664502%;
+}
+.LandingPage_LandingPage .BANNERS .banner_2 .Rectangle1copy3 {
+	position: absolute;
+	left: 0px;
+	top: 31.517608642578125px;
+	width: 100%;
+	height: 91.53701250524242%;
+}
+.LandingPage_LandingPage .BANNERS .banner_2 .OculusRiftprofile_grande {
+	position: absolute;
+	left: 36.426055908203125px;
+	top: 0px;
+	width: 0.29701890195959313%;
+	height: 0.33332617683553106%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .imageProduct_1 {
+	position: absolute;
+	left: 949.54150390625px;
+	top: 727.5308837890625px;
+	width: 408.56536865234375px;
+	height: 356.9608154296875px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .imageProduct_2 {
+	position: absolute;
+	left: 523.18408203125px;
+	top: 730.48193359375px;
+	width: 434.35614013671875px;
+	height: 354.009765625px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .BESTSELLERS {
+	position: absolute;
+	left: 78.50042724609375px;
+	top: 1148.1729736328125px;
+	width: 87.666650390625%;
+	height: 20.301507537688444%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid {
+	position: absolute;
+	left: 0px;
+	top: 138px;
+	width: 100%;
+	height: 80.69316599628714%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 91.99945453590158%;
+	height: 47.60730491839422%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .Rectangle1copy5 {
+	position: absolute;
+	left: 5px;
+	top: 0px;
+	width: 24.88029761202653%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .Rectangle1copy5 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .Rectangle1copy5 .Vector_3 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00332225913621%;
+	height: 99.22680412371135%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .Rectangle1copy18 {
+	position: absolute;
+	left: 27px;
+	top: 238px;
+	width: 21.243310585683783%;
+	height: 0.25773195876288657%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate {
+	position: absolute;
+	left: 84.94633483886719px;
+	top: 316.8551025390625px;
+	width: 10.216343279598727%;
+	height: 3.9033240878704896%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate .star {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate .starcopy3 {
+	position: absolute;
+	left: 27.448867797851562px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate .starcopy4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate .starcopy {
+	position: absolute;
+	left: 82.34939575195312px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate .starcopy2 {
+	position: absolute;
+	left: 109.80049133300781px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_1 {
+	position: absolute;
+	left: 419.4462890625px;
+	top: 322.0804443359375px;
+	width: 10.21634264896216%;
+	height: 3.9033240878704896%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_1 .star_1 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_1 .starcopy3_1 {
+	position: absolute;
+	left: 27.448867797851562px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_1 .starcopy4_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_1 .starcopy_1 {
+	position: absolute;
+	left: 82.34939575195312px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_1 .starcopy2_1 {
+	position: absolute;
+	left: 109.80049133300781px;
+	top: 0px;
+	width: 11.16210272957216%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_2 {
+	position: absolute;
+	left: 1086.196044921875px;
+	top: 322.0804443359375px;
+	width: 10.21634264896216%;
+	height: 3.9033240878704896%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_2 .star_2 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_2 .starcopy3_2 {
+	position: absolute;
+	left: 27.4488525390625px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_2 .starcopy4_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_2 .starcopy_2 {
+	position: absolute;
+	left: 82.34942626953125px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item .rate_2 .starcopy2_2 {
+	position: absolute;
+	left: 109.80047607421875px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item ._50061505_575246 {
+	position: absolute;
+	left: 0px;
+	top: 23px;
+	width: 0.08265879605324429%;
+	height: 0.25773195876288657%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_1 {
+	position: absolute;
+	left: 671.0001220703125px;
+	top: 0px;
+	width: 23.11787501445814%;
+	height: 47.60730491839422%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_1 .Rectangle1copy5_1 {
+	position: absolute;
+	left: 3px;
+	top: 0px;
+	width: 99.01315789473685%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_1 .Rectangle1copy5_1 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_1 .Rectangle1copy5_1 .Vector_5 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00332225913621%;
+	height: 99.22680412371135%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_1 .Rectangle1copy18_1 {
+	position: absolute;
+	left: 25px;
+	top: 238px;
+	width: 84.21052631578947%;
+	height: 0.25773195876288657%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_1 ._50061505_575246_1 {
+	position: absolute;
+	left: 0px;
+	top: 28px;
+	width: 99.01315789473685%;
+	height: 50.77319587628865%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_2 {
+	position: absolute;
+	left: 669.0001220703125px;
+	top: 422.0009765625px;
+	width: 23.726240146417567%;
+	height: 47.73000415787462%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_2 .Rectangle1copy5_2 {
+	position: absolute;
+	left: 5px;
+	top: 0px;
+	width: 96.47435897435898%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_2 .Rectangle1copy5_2 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_2 .Rectangle1copy5_2 .Vector_7 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00332225913621%;
+	height: 99.22879177377892%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_2 .Rectangle1copy18_2 {
+	position: absolute;
+	left: 27px;
+	top: 238px;
+	width: 82.05128205128204%;
+	height: 0.2570694087403599%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_2 ._50061505_575246_2 {
+	position: absolute;
+	left: 0px;
+	top: 15px;
+	width: 100%;
+	height: 52.44215938303341%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_3 {
+	position: absolute;
+	left: 5px;
+	top: 422.0009765625px;
+	width: 22.889738089973356%;
+	height: 47.73000415787462%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_3 .Rectangle1copy5_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_3 .Rectangle1copy5_3 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_3 .Rectangle1copy5_3 .Vector_9 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00332225913621%;
+	height: 99.22879177377892%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_3 .Rectangle1copy18_3 {
+	position: absolute;
+	left: 22px;
+	top: 238px;
+	width: 85.38205980066445%;
+	height: 0.2570694087403599%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_3 ._50061505_575246_3 {
+	position: absolute;
+	left: 2px;
+	top: 25px;
+	width: 0.33222591362126247%;
+	height: 0.2570694087403599%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_4 {
+	position: absolute;
+	left: 1007.999755859375px;
+	top: 0px;
+	width: 22.889742731430967%;
+	height: 47.60730491839422%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_4 .Rectangle1copy5_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_4 .Rectangle1copy5_4 .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_4 .Rectangle1copy5_4 .Vector_11 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00330218378068%;
+	height: 99.22680412371135%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_4 .Rectangle1copy18_4 {
+	position: absolute;
+	left: 22px;
+	top: 238px;
+	width: 85.38204248735447%;
+	height: 0.25773195876288657%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_4 ._50061505_575246_4 {
+	position: absolute;
+	left: 6px;
+	top: 36px;
+	width: 96.34549541374629%;
+	height: 48.71134020618557%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_5 {
+	position: absolute;
+	left: 1002.999755859375px;
+	top: 422.0009765625px;
+	width: 23.726244787875174%;
+	height: 47.73000415787462%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_5 .Rectangle1copy5_5 {
+	position: absolute;
+	left: 5px;
+	top: 0px;
+	width: 96.47435966406414%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_5 .Rectangle1copy5_5 .Vector_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_5 .Rectangle1copy5_5 .Vector_13 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00330218378068%;
+	height: 99.22879177377892%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_5 .Rectangle1copy18_5 {
+	position: absolute;
+	left: 27px;
+	top: 238px;
+	width: 82.37177875777441%;
+	height: 0.2570694087403599%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_5 ._50061505_575246_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 52.44215938303341%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_6 {
+	position: absolute;
+	left: 332px;
+	top: 426.0009765625px;
+	width: 23.726240146417567%;
+	height: 47.73000415787462%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_6 .Rectangle1copy5_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 96.47435897435898%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_6 .Rectangle1copy5_6 .Vector_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_6 .Rectangle1copy5_6 .Vector_15 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00332225913621%;
+	height: 99.22879177377892%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_6 .Rectangle1copy18_6 {
+	position: absolute;
+	left: 30px;
+	top: 234px;
+	width: 82.05128205128204%;
+	height: 0.2570694087403599%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_6 ._50061505_575246_6 {
+	position: absolute;
+	left: 4px;
+	top: 14px;
+	width: 98.71794871794873%;
+	height: 51.670951156812336%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_7 {
+	position: absolute;
+	left: 339px;
+	top: 0px;
+	width: 22.889738089973356%;
+	height: 47.60730491839422%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_7 .Rectangle1copy5_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_7 .Rectangle1copy5_7 .Vector_16 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_7 .Rectangle1copy5_7 .Vector_17 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 99.00332225913621%;
+	height: 99.22680412371135%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_7 .Rectangle1copy18_7 {
+	position: absolute;
+	left: 23px;
+	top: 238px;
+	width: 85.04983388704319%;
+	height: 0.25773195876288657%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Itemsgrid .item_7 ._50061505_575246_7 {
+	position: absolute;
+	left: 19px;
+	top: 34px;
+	width: 86.71096345514951%;
+	height: 43.81443298969072%;
+}
+.LandingPage_LandingPage .BESTSELLERS .BESTSELLER {
+	position: absolute;
+	left: 538.5211181640625px;
+	top: 0px;
+	width: 15.589356506460259%;
+	height: 5.247524752475248%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 35px;
+	font-weight: 600;
+	line-height: 41.015625px;
+}
+.LandingPage_LandingPage .BESTSELLERS .Tabs {
+	position: absolute;
+	left: 362.5001220703125px;
+	top: 79px;
+	width: 47.68061721731991%;
+	height: 3.2673267326732676%;
+}
+.LandingPage_LandingPage .BESTSELLERS .Tabs .AllBagsSneakersBeltSunglasses {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color : rgba(51.00000075995922,160.00000566244125,255,1);
+	font-family: Proxima Nova;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .BESTSELLERS .Tabs .underline {
+	position: absolute;
+	left: 0.5px;
+	top: 30px;
+	width: 3.9872408293460926%;
+	height: 9.090909090909092%;
+}
+.LandingPage_LandingPage .BESTSELLERS .link {
+	position: absolute;
+	left: 613.0001220703125px;
+	top: 977px;
+	width: 8.74524877191673%;
+	height: 3.2673267326732676%;
+}
+.LandingPage_LandingPage .BESTSELLERS .link .LOADMORE {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 90.9090909090909%;
+	color : rgba(51.00000075995922,160.00000566244125,255,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .BESTSELLERS .link .Rectangle14 {
+	position: absolute;
+	left: 0px;
+	top: 30px;
+	width: 100%;
+	height: 9.090909090909092%;
+}
+.LandingPage_LandingPage .BANNER {
+	position: absolute;
+	left: -210.0001220703125px;
+	top: 2157px;
+	width: 128%;
+	height: 13.909547738693467%;
+}
+.LandingPage_LandingPage .BANNER .Rectangle1copy10 {
+	position: absolute;
+	left: 0px;
+	top: 92px;
+	width: 100%;
+	height: 86.70520231213872%;
+}
+.LandingPage_LandingPage .BANNER .Rectangle1copy19 {
+	position: absolute;
+	left: 0px;
+	top: 92px;
+	width: 100%;
+	height: 0.1445086705202312%;
+}
+.LandingPage_LandingPage .BANNER .Content {
+	position: absolute;
+	left: 317.2197265625px;
+	top: 254.775390625px;
+	width: 30.833333333333336%;
+	height: 39.66025644644147%;
+}
+.LandingPage_LandingPage .BANNER .Content .AdidasMenRunningSneakers {
+	position: absolute;
+	left: 3.28076171875px;
+	top: 0px;
+	width: 96.4527027027027%;
+	height: 60.48483155612765%;
+	color : rgba(255,255,255,1);
+	font-family: Poppins;
+	font-size: 55px;
+	font-weight: 500;
+	line-height: 64.453125px;
+}
+.LandingPage_LandingPage .BANNER .Content .PerformanceanddesignTakenrighttotheedge {
+	position: absolute;
+	left: 0px;
+	top: 189.341796875px;
+	width: 100%;
+	height: 13.117192385666238%;
+	color : rgba(255,255,255,1);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .BANNER .Content .link_1 {
+	position: absolute;
+	left: 3.28076171875px;
+	top: 237.448974609375px;
+	width: 18.75%;
+	height: 13.481558840823633%;
+}
+.LandingPage_LandingPage .BANNER .Content .link_1 .SHOPNOW {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 81.08108108108108%;
+	color : rgba(255,255,255,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .BANNER .Content .link_1 .Rectangle14_1 {
+	position: absolute;
+	left: 0px;
+	top: 34px;
+	width: 67.56756756756756%;
+	height: 8.108108108108109%;
+}
+.LandingPage_LandingPage .BANNER .pic_1 {
+	position: absolute;
+	left: 1025px;
+	top: 0px;
+	width: 0.06114641825358073%;
+	height: 0.16950486023302022%;
+}
+.LandingPage_LandingPage .BANNER .pic_1 .iPhone6s_discover_desktop_08_iOS9_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .WHYUS {
+	position: absolute;
+	left: 191.35659790039062px;
+	top: 2946.201416015625px;
+	width: 72.74839680989584%;
+	height: 3.3997673916457285%;
+}
+.LandingPage_LandingPage .WHYUS .Group14 {
+	position: absolute;
+	left: 451.27471923828125px;
+	top: 4.92626953125px;
+	width: 17.29030263253716%;
+	height: 96.18427491119256%;
+}
+.LandingPage_LandingPage .WHYUS .Group14 ._100REFUND {
+	position: absolute;
+	left: 0px;
+	top: 121.19677734375px;
+	width: 100%;
+	height: 25.501833854576233%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 27px;
+	font-weight: 500;
+	line-height: 31.640625px;
+}
+.LandingPage_LandingPage .WHYUS .Group14 .refund {
+	position: absolute;
+	left: 59.93511962890625px;
+	top: 0px;
+	width: 36.46777119580548%;
+	height: 48.04864066655061%;
+}
+.LandingPage_LandingPage .WHYUS .Group14 .refund .Group12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .WHYUS .Group14 .refund .Group12 .Group11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .WHYUS .Group14 .refund .Group12 .Group11 .Path1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .WHYUS .Group14 .refund .Group12 .Group11 .Path2 {
+	position: absolute;
+	left: 22.9993896484375px;
+	top: 28.202880859375px;
+	width: 33.48469553400194%;
+	height: 42.347466229405796%;
+}
+.LandingPage_LandingPage .WHYUS .Group15 {
+	position: absolute;
+	left: 901.0119323730469px;
+	top: 4.926513671875px;
+	width: 17.431224937279925%;
+	height: 97.08728895150198%;
+}
+.LandingPage_LandingPage .WHYUS .Group15 .SUPPORT247 {
+	position: absolute;
+	left: 0px;
+	top: 122.724365234375px;
+	width: 100%;
+	height: 25.264639941006106%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 27px;
+	font-weight: 500;
+	line-height: 31.640625px;
+}
+.LandingPage_LandingPage .WHYUS .Group15 .support {
+	position: absolute;
+	left: 50.14666748046875px;
+	top: 0px;
+	width: 35.57643960292216%;
+	height: 54.09968897373225%;
+}
+.LandingPage_LandingPage .WHYUS .Group15 .support .Path3 {
+	position: absolute;
+	left: 0px;
+	top: 62.466064453125px;
+	width: 99.99440800629189%;
+	height: 29.685803875442794%;
+}
+.LandingPage_LandingPage .WHYUS .Group15 .support .Path4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 70.3169442757385%;
+}
+.LandingPage_LandingPage .WHYUS .Group13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 17.71288496902953%;
+	height: 95.28183824558923%;
+}
+.LandingPage_LandingPage .WHYUS .Group13 .FREESHIPPING {
+	position: absolute;
+	left: 0px;
+	top: 119.67041015625px;
+	width: 100%;
+	height: 25.743367711754512%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 27px;
+	font-weight: 500;
+	line-height: 31.640625px;
+}
+.LandingPage_LandingPage .WHYUS .Group13 .shipping {
+	position: absolute;
+	left: 41.70391845703125px;
+	top: 0px;
+	width: 52.12743903671312%;
+	height: 40.8670451928787%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS {
+	position: absolute;
+	left: 64.52023315429688px;
+	top: 3728.52734375px;
+	width: 89.67539062499999%;
+	height: 5.958513269472362%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .FEATUREDPRODUCTS {
+	position: absolute;
+	left: 506.69622802734375px;
+	top: 0px;
+	width: 27.58095741367519%;
+	height: 17.87906789809274%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 35px;
+	font-weight: 600;
+	line-height: 41.015625px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 {
+	position: absolute;
+	left: 0px;
+	top: 108.43603515625px;
+	width: 35.38685309935865%;
+	height: 63.420089902668586%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Rectangle1copy25 {
+	position: absolute;
+	left: 48px;
+	top: 18px;
+	width: 32.35297643841652%;
+	height: 81.91489361702128%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Rectangle1copy25 .Vector_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Rectangle1copy25 .Vector_19 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 98.7012987012987%;
+	height: 98.7012987012987%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .rate_3 {
+	position: absolute;
+	left: 226.89501953125px;
+	top: 86.777099609375px;
+	width: 18.071027624785454%;
+	height: 6.318177568151596%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .rate_3 .star_3 {
+	position: absolute;
+	left: 36.540985107421875px;
+	top: 0px;
+	width: 15.03758331484775%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .rate_3 .starcopy3_3 {
+	position: absolute;
+	left: 18.271011352539062px;
+	top: 0px;
+	width: 15.037547836716513%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .rate_3 .starcopy4_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15.038718615047287%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .rate_3 .starcopy_3 {
+	position: absolute;
+	left: 54.81201934814453px;
+	top: 0px;
+	width: 15.037547836716513%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .rate_3 .starcopy2_3 {
+	position: absolute;
+	left: 73.08098602294922px;
+	top: 0px;
+	width: 15.039889393378058%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Group17 {
+	position: absolute;
+	left: 226.70703125px;
+	top: 116px;
+	width: 21.905926129044232%;
+	height: 15.957446808510639%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Group17 ._499 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 49.8695265846169%;
+	height: 100%;
+	color : rgba(255,72.00000330805779,88.00000235438347,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Group17 ._599 {
+	position: absolute;
+	left: 56.2720947265625px;
+	top: 3px;
+	width: 46.03340915503098%;
+	height: 80%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .Group17 .Line1 {
+	position: absolute;
+	left: 57.182098388671875px;
+	top: 17.676025390625px;
+	width: 44.43086972326056%;
+	height: 0%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .c04297141 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 52.31098138419294%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group20 .BlueSwadeNikeSneakers {
+	position: absolute;
+	left: 226.70700073242188px;
+	top: 16.39697265625px;
+	width: 52.372426927791416%;
+	height: 28.723404255319153%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 {
+	position: absolute;
+	left: 434.565673828125px;
+	top: 108.43603515625px;
+	width: 35.38685309935865%;
+	height: 63.420089902668586%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Rectangle1copy25_1 {
+	position: absolute;
+	left: 48px;
+	top: 18px;
+	width: 32.35297643841652%;
+	height: 81.91489361702128%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Rectangle1copy25_1 .Vector_20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Rectangle1copy25_1 .Vector_21 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 98.7012987012987%;
+	height: 98.7012987012987%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .rate_4 {
+	position: absolute;
+	left: 226.89501953125px;
+	top: 86.777099609375px;
+	width: 18.07102922760118%;
+	height: 6.318177568151596%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .rate_4 .star_4 {
+	position: absolute;
+	left: 36.540985107421875px;
+	top: 0px;
+	width: 15.03758198108448%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .rate_4 .starcopy3_4 {
+	position: absolute;
+	left: 18.271026611328125px;
+	top: 0px;
+	width: 15.037546502956392%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .rate_4 .starcopy4_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15.038717281183322%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .rate_4 .starcopy_4 {
+	position: absolute;
+	left: 54.81201171875px;
+	top: 0px;
+	width: 15.037546502956392%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .rate_4 .starcopy2_4 {
+	position: absolute;
+	left: 73.08099365234375px;
+	top: 0px;
+	width: 15.039888059410252%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Group17_1 {
+	position: absolute;
+	left: 226.70703125px;
+	top: 116px;
+	width: 21.905926129044232%;
+	height: 15.957446808510639%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Group17_1 ._499_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 49.8695265846169%;
+	height: 100%;
+	color : rgba(255,72.00000330805779,88.00000235438347,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Group17_1 ._599_1 {
+	position: absolute;
+	left: 56.2720947265625px;
+	top: 3px;
+	width: 46.03340915503098%;
+	height: 80%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .Group17_1 .Line1_1 {
+	position: absolute;
+	left: 57.182098388671875px;
+	top: 17.676025390625px;
+	width: 44.430880698480564%;
+	height: 0%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .c04297141_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 52.31098138419294%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group23 .BlueSwadeNikeSneakers_1 {
+	position: absolute;
+	left: 226.70700073242188px;
+	top: 16.39697265625px;
+	width: 52.372426927791416%;
+	height: 28.723404255319153%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 {
+	position: absolute;
+	left: 869.1313781738281px;
+	top: 108.43603515625px;
+	width: 35.386855368102836%;
+	height: 63.420089902668586%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Rectangle1copy25_2 {
+	position: absolute;
+	left: 48px;
+	top: 18px;
+	width: 32.35297436418227%;
+	height: 81.91489361702128%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Rectangle1copy25_2 .Vector_22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Rectangle1copy25_2 .Vector_23 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 98.7012987012987%;
+	height: 98.7012987012987%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .rate_5 {
+	position: absolute;
+	left: 226.89501953125px;
+	top: 86.777099609375px;
+	width: 18.071028069020063%;
+	height: 6.318177568151596%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .rate_5 .star_5 {
+	position: absolute;
+	left: 36.541015625px;
+	top: 0px;
+	width: 15.037617459212571%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .rate_5 .starcopy3_5 {
+	position: absolute;
+	left: 18.27099609375px;
+	top: 0px;
+	width: 15.037546502956392%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .rate_5 .starcopy4_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15.038752759311414%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .rate_5 .starcopy_5 {
+	position: absolute;
+	left: 54.81201171875px;
+	top: 0px;
+	width: 15.037546502956392%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .rate_5 .starcopy2_5 {
+	position: absolute;
+	left: 73.08099365234375px;
+	top: 0px;
+	width: 15.039888059410252%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Group17_2 {
+	position: absolute;
+	left: 226.70703125px;
+	top: 116px;
+	width: 21.90592472459781%;
+	height: 15.957446808510639%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Group17_2 ._499_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 49.8695265846169%;
+	height: 100%;
+	color : rgba(255,72.00000330805779,88.00000235438347,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Group17_2 ._599_2 {
+	position: absolute;
+	left: 56.2720947265625px;
+	top: 3px;
+	width: 46.03340915503098%;
+	height: 80%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .Group17_2 .Line1_2 {
+	position: absolute;
+	left: 57.18212890625px;
+	top: 17.676025390625px;
+	width: 44.430851431227225%;
+	height: 0%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .c04297141_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 52.310978030398616%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FEATUREDDPRODUCTS .Group24 .BlueSwadeNikeSneakers_2 {
+	position: absolute;
+	left: 226.70703125px;
+	top: 16.39697265625px;
+	width: 52.372423570057656%;
+	height: 28.723404255319153%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .Group515 {
+	position: absolute;
+	left: 549.107421875px;
+	top: 99.00244140625px;
+	width: 815.4912109375px;
+	height: 36.00006103515625px;
+}
+.LandingPage_LandingPage .Group515 .NAV {
+	position: absolute;
+	left: 0px;
+	top: 0.00006103515625px;
+	width: 8.583783498969538%;
+	height: 99.99983045818675%;
+}
+.LandingPage_LandingPage .Group515 .NAV .HOME {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color : rgba(51.00000075995922,160.00000566244125,255,1);
+	font-family: Proxima Nova;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group515 .NAV_1 {
+	position: absolute;
+	left: 167.872802734375px;
+	top: 0px;
+	width: 79.41451722804148%;
+	height: 99.99983045818675%;
+}
+.LandingPage_LandingPage .Group515 .NAV_1 .BAGS {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 10.036774615525259%;
+	height: 100%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group515 .NAV_1 .SNEAKERS {
+	position: absolute;
+	left: 162.872802734375px;
+	top: 0px;
+	width: 18.37501814226932%;
+	height: 100%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group515 .NAV_1 .BELT {
+	position: absolute;
+	left: 379.74560546875px;
+	top: 0px;
+	width: 8.029419692420207%;
+	height: 100%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group515 .NAV_1 .CONTACT {
+	position: absolute;
+	left: 529.618408203125px;
+	top: 0px;
+	width: 18.220606225107396%;
+	height: 100%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .HEADER {
+	position: absolute;
+	left: 0.00018310546875px;
+	top: 26.73944091796875px;
+	width: 100.02584635416667%;
+	height: 0.8442211055276382%;
+}
+.LandingPage_LandingPage .HEADER .divider {
+	position: absolute;
+	left: 0px;
+	top: 40px;
+	width: 100%;
+	height: 4.761904761904762%;
+}
+.LandingPage_LandingPage .HEADER .cart {
+	position: absolute;
+	left: 1193.5986328125px;
+	top: 0px;
+	width: 9.130985513509854%;
+	height: 59.523809523809526%;
+}
+.LandingPage_LandingPage .HEADER .cart .Items {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 38.686079681512744%;
+	height: 96%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .HEADER .cart ._000 {
+	position: absolute;
+	left: 85.00018310546875px;
+	top: 1px;
+	width: 37.95615364978609%;
+	height: 96%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .HEADER .language {
+	position: absolute;
+	left: 103.9998779296875px;
+	top: 2px;
+	width: 2.550154680072924%;
+	height: 57.14285714285714%;
+}
+.LandingPage_LandingPage .HEADER .language .EN {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 67.95217008460841%;
+	height: 100%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .HEADER .language .arrowdown {
+	position: absolute;
+	left: 31.59521484375px;
+	top: 10px;
+	width: 17.42448411837521%;
+	height: 16.666666666666664%;
+}
+.LandingPage_LandingPage .HEADER .currency {
+	position: absolute;
+	left: 155.4101104736328px;
+	top: 2px;
+	width: 3.389256650462088%;
+	height: 57.14285714285714%;
+}
+.LandingPage_LandingPage .HEADER .currency .USD {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 78.6596555999515%;
+	height: 100%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .HEADER .currency .arrowdown_1 {
+	position: absolute;
+	left: 44.18505859375px;
+	top: 11px;
+	width: 13.110582733907933%;
+	height: 16.666666666666664%;
+}
+.LandingPage_LandingPage .HEADER .account {
+	position: absolute;
+	left: 991.9578247070312px;
+	top: 0.49993896484375px;
+	width: 7.566558317934753%;
+	height: 57.14285714285714%;
+}
+.LandingPage_LandingPage .HEADER .account .Myprofile {
+	position: absolute;
+	left: 26.5277099609375px;
+	top: 0px;
+	width: 76.63327308366819%;
+	height: 100%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Proxima Nova;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.LandingPage_LandingPage .HEADER .account .profile_close_2 {
+	position: absolute;
+	left: 0px;
+	top: 2px;
+	width: 17.616844387050158%;
+	height: 83.33333333333334%;
+}
+.LandingPage_LandingPage .HEADER .searchicon {
+	position: absolute;
+	left: 1337.1553955078125px;
+	top: 2.029815673828125px;
+	width: 1.3964245569341778%;
+	height: 49.857947939918155%;
+}
+.LandingPage_LandingPage .Cart {
+	position: absolute;
+	left: 1112.042236328125px;
+	top: 9.739501953125px;
+	width: 5%;
+	height: 1.185929648241206%;
+}
+.LandingPage_LandingPage .Cart .Rectangle394 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background : rgba(255,255,255,1);
+}
+.LandingPage_LandingPage .Cart .systemicon24pxCart {
+	position: absolute;
+	left: 26px;
+	top: 16px;
+	width: 32%;
+	height: 40.67796610169492%;
+}
+.LandingPage_LandingPage .Cart .systemicon24pxCart .Group {
+	position: absolute;
+	left: 3px;
+	top: 3px;
+	width: 18px;
+	height: 18px;
+}
+.LandingPage_LandingPage .Cart .systemicon24pxCart .Group .Vector_24 {
+	position: absolute;
+	left: 5.625px;
+	top: 16.875px;
+	width: 6.25%;
+	height: 6.25%;
+}
+.LandingPage_LandingPage .Cart .systemicon24pxCart .Group .Vector_25 {
+	position: absolute;
+	left: 13.5px;
+	top: 16.875px;
+	width: 6.25%;
+	height: 6.25%;
+}
+.LandingPage_LandingPage .Cart .systemicon24pxCart .Group .Vector_26 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 75%;
+}
+.LandingPage_LandingPage .Cart .NotificationMark {
+	position: absolute;
+	left: 40px;
+	top: 6px;
+	width: 26.666666666666668%;
+	height: 33.89830508474576%;
+}
+.LandingPage_LandingPage .Cart .NotificationMark .Ellipse {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	border: 2px solid rgba(255,255,255,1);
+}
+.LandingPage_LandingPage .Cart .NotificationMark ._2 {
+	position: absolute;
+	left: 7px;
+	top: 3px;
+	width: 30%;
+	height: 75%;
+	color : rgba(255,255,255,1);
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: 700;
+	line-height: 15px;
+}
+.LandingPage_LandingPage .Discount_1 {
+	position: absolute;
+	left: 668.52490234375px;
+	top: 1038.5030517578125px;
+	width: 161.951416015625px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Discount_1 ._53433_1 {
+	position: relative;
+	margin-right: 8px;
+	width: 73px;
+	height: 27px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Discount_1 ._24Off_1 {
+	position: relative;
+	margin-right: 8px;
+	width: 80.951416015625px;
+	height: 27px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage ._29943_1 {
+	position: absolute;
+	left: 806.14599609375px;
+	top: 750.5235595703125px;
+	width: 116px;
+	height: 54px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Raleway;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 54px;
+}
+.LandingPage_LandingPage ._29943_2 {
+	position: absolute;
+	left: 1209.048583984375px;
+	top: 1016.0030517578125px;
+	width: 116px;
+	height: 54px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Raleway;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 54px;
+}
+.LandingPage_LandingPage .FSNikeAirMax270React {
+	position: absolute;
+	left: 573.3818359375px;
+	top: 755.5235595703125px;
+	width: 178.2373046875px;
+	height: 57.4681396484375px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+}
+.LandingPage_LandingPage .FSNikeAirMax270React_1 {
+	position: absolute;
+	left: 1002.17626953125px;
+	top: 759.4774780273438px;
+	width: 171.6484375px;
+	height: 58.09210205078125px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+}
+.LandingPage_LandingPage .Discount_2 {
+	position: absolute;
+	left: 1002.38623046875px;
+	top: 840px;
+	width: 149.2293701171875px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Discount_2 ._53433_2 {
+	position: relative;
+	margin-right: 8px;
+	width: 65px;
+	height: 24px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.LandingPage_LandingPage .Discount_2 ._24Off_2 {
+	position: relative;
+	margin-right: 8px;
+	width: 76.2293701171875px;
+	height: 24px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.LandingPage_LandingPage .imageProduct_3 {
+	position: absolute;
+	left: 83.50048828125px;
+	top: 1287.6729736328125px;
+	width: 299.5px;
+	height: 272.5px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .NikeAirMax270React {
+	position: absolute;
+	left: 124.3349609375px;
+	top: 1569.7222900390625px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .NikeAirMax270React_1 {
+	position: absolute;
+	left: 458.8349609375px;
+	top: 1574.9476318359375px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .NikeAirMax270React_2 {
+	position: absolute;
+	left: 1125.584716796875px;
+	top: 1574.9476318359375px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Frame14 {
+	position: absolute;
+	left: 125.44677734375px;
+	top: 1624.1729736328125px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Frame14 ._29943_3 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Frame15 {
+	position: absolute;
+	left: 459.94677734375px;
+	top: 1629.3983154296875px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Frame15 ._29943_4 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Frame19 {
+	position: absolute;
+	left: 1126.696533203125px;
+	top: 1629.3983154296875px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Frame19 ._29943_5 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Frame8 {
+	position: absolute;
+	left: 214.583251953125px;
+	top: 1632.6729736328125px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Frame8 ._53433_3 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Frame8 ._24Off_3 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Frame16 {
+	position: absolute;
+	left: 549.0830078125px;
+	top: 1637.8983154296875px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Frame16 ._53433_4 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Frame16 ._24Off_4 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group476 {
+	position: absolute;
+	left: 796.3349609375px;
+	top: 1574.9476318359375px;
+	width: 219.3310546875px;
+	height: 86.45068359375px;
+}
+.LandingPage_LandingPage .Group476 .rate_6 {
+	position: absolute;
+	left: 39.11181640625px;
+	top: 33.3057861328125px;
+	width: 56.3515995458492%;
+	height: 17.51853985574778%;
+}
+.LandingPage_LandingPage .Group476 .rate_6 .star_6 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group476 .rate_6 .starcopy3_6 {
+	position: absolute;
+	left: 27.448883056640625px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group476 .rate_6 .starcopy4_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group476 .rate_6 .starcopy_6 {
+	position: absolute;
+	left: 82.349365234375px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group476 .rate_6 .starcopy2_6 {
+	position: absolute;
+	left: 109.80047607421875px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group476 .NikeAirMax270React_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Group476 .Frame17 {
+	position: absolute;
+	left: 1.11181640625px;
+	top: 54.45068359375px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Group476 .Frame17 ._29943_6 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Group476 .Frame18 {
+	position: absolute;
+	left: 90.248046875px;
+	top: 62.95068359375px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Group476 .Frame18 ._53433_5 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group476 .Frame18 ._24Off_5 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group477 {
+	position: absolute;
+	left: 805.41748046875px;
+	top: 2002.06396484375px;
+	width: 219.3310546875px;
+	height: 86.45068359375px;
+}
+.LandingPage_LandingPage .Group477 .rate_7 {
+	position: absolute;
+	left: 39.11181640625px;
+	top: 33.3057861328125px;
+	width: 56.3515995458492%;
+	height: 17.51853985574778%;
+}
+.LandingPage_LandingPage .Group477 .rate_7 .star_7 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group477 .rate_7 .starcopy3_7 {
+	position: absolute;
+	left: 27.448883056640625px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group477 .rate_7 .starcopy4_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group477 .rate_7 .starcopy_7 {
+	position: absolute;
+	left: 82.349365234375px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group477 .rate_7 .starcopy2_7 {
+	position: absolute;
+	left: 109.80047607421875px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group477 .NikeAirMax270React_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Group477 .Frame17_1 {
+	position: absolute;
+	left: 1.11181640625px;
+	top: 54.45068359375px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Group477 .Frame17_1 ._29943_7 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Group477 .Frame18_1 {
+	position: absolute;
+	left: 90.248046875px;
+	top: 62.95068359375px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Group477 .Frame18_1 ._53433_6 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group477 .Frame18_1 ._24Off_6 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group479 {
+	position: absolute;
+	left: 450.33447265625px;
+	top: 2002.06396484375px;
+	width: 219.3310546875px;
+	height: 86.45068359375px;
+}
+.LandingPage_LandingPage .Group479 .rate_8 {
+	position: absolute;
+	left: 39.11181640625px;
+	top: 33.3057861328125px;
+	width: 56.3515995458492%;
+	height: 17.51853985574778%;
+}
+.LandingPage_LandingPage .Group479 .rate_8 .star_8 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group479 .rate_8 .starcopy3_8 {
+	position: absolute;
+	left: 27.448867797851562px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group479 .rate_8 .starcopy4_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group479 .rate_8 .starcopy_8 {
+	position: absolute;
+	left: 82.34939575195312px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group479 .rate_8 .starcopy2_8 {
+	position: absolute;
+	left: 109.80049133300781px;
+	top: 0px;
+	width: 11.162115075214592%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group479 .NikeAirMax270React_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Group479 .Frame17_2 {
+	position: absolute;
+	left: 1.11181640625px;
+	top: 54.45068359375px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Group479 .Frame17_2 ._29943_8 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Group479 .Frame18_2 {
+	position: absolute;
+	left: 90.248046875px;
+	top: 62.95068359375px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Group479 .Frame18_2 ._53433_7 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group479 .Frame18_2 ._24Off_7 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group480 {
+	position: absolute;
+	left: 124.3349609375px;
+	top: 2002.06396484375px;
+	width: 219.3310546875px;
+	height: 86.45068359375px;
+}
+.LandingPage_LandingPage .Group480 .rate_9 {
+	position: absolute;
+	left: 39.11181640625px;
+	top: 33.3057861328125px;
+	width: 56.35160302433269%;
+	height: 17.51853985574778%;
+}
+.LandingPage_LandingPage .Group480 .rate_9 .star_9 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group480 .rate_9 .starcopy3_9 {
+	position: absolute;
+	left: 27.448867797851562px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group480 .rate_9 .starcopy4_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group480 .rate_9 .starcopy_9 {
+	position: absolute;
+	left: 82.34939575195312px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group480 .rate_9 .starcopy2_9 {
+	position: absolute;
+	left: 109.80049133300781px;
+	top: 0px;
+	width: 11.162114386197226%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group480 .NikeAirMax270React_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Group480 .Frame17_3 {
+	position: absolute;
+	left: 1.11181640625px;
+	top: 54.45068359375px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Group480 .Frame17_3 ._29943_9 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Group480 .Frame18_3 {
+	position: absolute;
+	left: 90.248046875px;
+	top: 62.95068359375px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Group480 .Frame18_3 ._53433_8 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group480 .Frame18_3 ._24Off_8 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group478 {
+	position: absolute;
+	left: 1127.33447265625px;
+	top: 2002.06396484375px;
+	width: 219.3310546875px;
+	height: 86.45068359375px;
+}
+.LandingPage_LandingPage .Group478 .rate_10 {
+	position: absolute;
+	left: 39.11181640625px;
+	top: 33.3057861328125px;
+	width: 56.3515995458492%;
+	height: 17.51853985574778%;
+}
+.LandingPage_LandingPage .Group478 .rate_10 .star_10 {
+	position: absolute;
+	left: 54.89996337890625px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group478 .rate_10 .starcopy3_10 {
+	position: absolute;
+	left: 27.4488525390625px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group478 .rate_10 .starcopy4_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group478 .rate_10 .starcopy_10 {
+	position: absolute;
+	left: 82.349365234375px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group478 .rate_10 .starcopy2_10 {
+	position: absolute;
+	left: 109.80047607421875px;
+	top: 0px;
+	width: 11.162090383929726%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group478 .NikeAirMax270React_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 219.3310546875px;
+	height: 27px;
+	color : rgba(34.00000177323818,50.000000819563866,99.00000169873238,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 27px;
+}
+.LandingPage_LandingPage .Group478 .Frame17_4 {
+	position: absolute;
+	left: 1.11181640625px;
+	top: 54.45068359375px;
+	width: 76px;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Group478 .Frame17_4 ._29943_10 {
+	position: relative;
+	margin-bottom: 4px;
+	width: 76px;
+	height: 32px;
+	color : rgba(64.39745485782623,191.39898240566254,255,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 32.39999771118164px;
+}
+.LandingPage_LandingPage .Group478 .Frame18_4 {
+	position: absolute;
+	left: 90.248046875px;
+	top: 62.95068359375px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Group478 .Frame18_4 ._53433_9 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Group478 .Frame18_4 ._24Off_9 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Frame20 {
+	position: absolute;
+	left: 1215.832763671875px;
+	top: 1637.8983154296875px;
+	width: 122px;
+	height: 15px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.LandingPage_LandingPage .Frame20 ._53433_10 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(144.00000661611557,152.0000061392784,177.0000046491623,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .Frame20 ._24Off_10 {
+	position: relative;
+	margin-right: 8px;
+	width: 57px;
+	height: 21px;
+	color : rgba(251.00000023841858,113.00000086426735,129.00000751018524,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 21px;
+}
+.LandingPage_LandingPage .label {
+	position: absolute;
+	left: 83.50048828125px;
+	top: 1287.6729736328125px;
+	width: 4.266666666666667%;
+	height: 0.6633165829145728%;
+}
+.LandingPage_LandingPage .label .Rectangle20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .label .HOT {
+	position: absolute;
+	left: 12.82000732421875px;
+	top: 5px;
+	width: 57.8125%;
+	height: 66.66666666666666%;
+	color : rgba(255,255,255,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .imageProduct_4 {
+	position: absolute;
+	left: 417.50048828125px;
+	top: 1283.6729736328125px;
+	width: 301px;
+	height: 276.5px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .imageProduct_5 {
+	position: absolute;
+	left: 752.50048828125px;
+	top: 1283.6729736328125px;
+	width: 307px;
+	height: 276.5px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .imageProduct_6 {
+	position: absolute;
+	left: 1088.00048828125px;
+	top: 1287.6729736328125px;
+	width: 294.49951171875px;
+	height: 272.5px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .imageProduct_7 {
+	position: absolute;
+	left: 1088.0830078125px;
+	top: 1708.1739501953125px;
+	width: 305.4169921875px;
+	height: 279.1151123046875px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .itemhover {
+	position: absolute;
+	left: 767.88623046875px;
+	top: 1311.4229736328125px;
+	width: 18.53333333333333%;
+	height: 4.402010050251256%;
+}
+.LandingPage_LandingPage .itemhover .overlay {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions {
+	position: absolute;
+	left: 82px;
+	top: 82px;
+	width: 40.647482014388494%;
+	height: 23.28767123287671%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group4 {
+	position: absolute;
+	left: 62px;
+	top: 0px;
+	width: 45.13274336283185%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group4 .Ellipse1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group4 .Ellipse1 .Vector_27 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group4 .Ellipse1 .Vector_28 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 96.07843137254902%;
+	height: 96.07843137254902%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group4 .cart_2 {
+	position: absolute;
+	left: 17.114013671875px;
+	top: 16.1949462890625px;
+	width: 34.851552925857845%;
+	height: 34.964527803308826%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 46.017699115044245%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group5 .Ellipse2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group5 .Ellipse2 .Vector_29 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group5 .Ellipse2 .Vector_30 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 96.15384615384616%;
+	height: 96.07843137254902%;
+}
+.LandingPage_LandingPage .itemhover .actions .Group5 .hearts {
+	position: absolute;
+	left: 16.701507568359375px;
+	top: 17.3079833984375px;
+	width: 34.23972496619591%;
+	height: 30.590102251838236%;
+}
+.LandingPage_LandingPage .itemhover .pointer {
+	position: absolute;
+	left: 233px;
+	top: 187px;
+	width: 8.633093525179856%;
+	height: 14.15525114155251%;
+}
+.LandingPage_LandingPage .ProductPicture {
+	position: absolute;
+	left: 83.50054931640625px;
+	top: 1708.1739501953125px;
+	width: 968.5px;
+	height: 279.1151123046875px;
+}
+.LandingPage_LandingPage .ProductPicture .ProductPicture01 {
+	position: absolute;
+	left: 670.5px;
+	top: 0px;
+	width: 298px;
+	height: 279.1151123046875px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.LandingPage_LandingPage .ProductPicture .ProductPicture02 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 301px;
+	height: 279.1151123046875px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 8px;
+}
+.LandingPage_LandingPage .ProductPicture .ProductPicture03 {
+	position: absolute;
+	left: 328.5px;
+	top: 5.5px;
+	width: 310.5px;
+	height: 273.6151123046875px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 8px;
+}
+.LandingPage_LandingPage .shoesshoepngtransparentshoeimagespluspng171 {
+	position: absolute;
+	left: 689.2178955078125px;
+	top: 2157.73974609375px;
+	width: 794.5640869140625px;
+	height: 598.93505859375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .Group481 {
+	position: absolute;
+	left: 141.12008666992188px;
+	top: 3119.33935546875px;
+	width: 1145.13232421875px;
+	height: 499.15087890625px;
+}
+.LandingPage_LandingPage .Group481 .Nike_logo_emblem_logotype1 {
+	position: absolute;
+	left: 0px;
+	top: 386.333251953125px;
+	width: 144.90354919433594px;
+	height: 52.180908203125px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .Group481 ._01Jan2015 {
+	position: absolute;
+	left: 180.0888671875px;
+	top: 340.633056640625px;
+	width: 9.169246014571698%;
+	height: 5.409186108048727%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group481 .FashionIndustry {
+	position: absolute;
+	left: 180.0888671875px;
+	top: 369.833251953125px;
+	width: 16.242664368669868%;
+	height: 6.61122746539289%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .Group481 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustry {
+	position: absolute;
+	left: 180.0888671875px;
+	top: 402.833251953125px;
+	width: 17.2517334113356%;
+	height: 19.296295173150497%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group481 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustry_1 {
+	position: absolute;
+	left: 43.3671875px;
+	top: 0px;
+	width: 17.2517334113356%;
+	height: 19.296295173150497%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group481 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustry_2 {
+	position: absolute;
+	left: 495.47216796875px;
+	top: 0px;
+	width: 17.2517334113356%;
+	height: 19.296295173150497%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group481 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustry_3 {
+	position: absolute;
+	left: 947.5771789550781px;
+	top: 0px;
+	width: 17.2517334113356%;
+	height: 19.296295173150497%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group482 {
+	position: absolute;
+	left: 719.8525390625px;
+	top: 3459.972900390625px;
+	width: 197.55517578125px;
+	height: 158.517822265625px;
+}
+.LandingPage_LandingPage .Group482 ._01Jan2015_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 53.149708472464916%;
+	height: 17.03278509261669%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group482 .BestDesignTools {
+	position: absolute;
+	left: 0px;
+	top: 29.2001953125px;
+	width: 98.70660144886342%;
+	height: 20.817848446531514%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .Group482 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustry_4 {
+	position: absolute;
+	left: 0px;
+	top: 62.2001953125px;
+	width: 100%;
+	height: 60.76138668605198%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group483 {
+	position: absolute;
+	left: 1156.49609375px;
+	top: 3459.972900390625px;
+	width: 197.55517578125px;
+	height: 158.517822265625px;
+}
+.LandingPage_LandingPage .Group483 ._01Jan2015_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 53.149708472464916%;
+	height: 17.03278509261669%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .Group483 .HRCommunity {
+	position: absolute;
+	left: 0px;
+	top: 29.2001953125px;
+	width: 86.05190895541939%;
+	height: 20.817848446531514%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 25.78125px;
+}
+.LandingPage_LandingPage .Group483 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustry_5 {
+	position: absolute;
+	left: 0px;
+	top: 62.2001953125px;
+	width: 100%;
+	height: 60.76138668605198%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .figma1logo1 {
+	position: absolute;
+	left: 592.13134765625px;
+	top: 3492.298095703125px;
+	width: 116.95458984375px;
+	height: 87.716064453125px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .FOOTER {
+	position: absolute;
+	left: 104.00006103515625px;
+	top: 95.00245666503906px;
+	width: 8.954361979166666%;
+	height: 0.8844221105527638%;
+}
+.LandingPage_LandingPage .FOOTER .Group484 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 134.3154296875px;
+	height: 44px;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 134.3154296875px;
+	height: 44px;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 .Icon {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 44px;
+	height: 44px;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 .Icon .Rectangle383 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background : rgba(64.39745485782623,191.39898240566254,255,1);
+	border-radius: 16px;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 .Icon .Group400 {
+	position: absolute;
+	left: 12.222213745117188px;
+	top: 12.22222900390625px;
+	width: 44.44444829767401%;
+	height: 44.44444829767401%;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 .Icon .Group400 .Group389 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 .Icon .Group400 .Group389 .Vector40Stroke {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .FOOTER .Group484 .Group490 .EComm {
+	position: absolute;
+	left: 50.3154296875px;
+	top: 9.77777099609375px;
+	width: 62.539352474570855%;
+	height: 61.36363636363637%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer {
+	position: absolute;
+	left: 0.0859375px;
+	top: 4294.40576171875px;
+	width: 1500px;
+	height: 680.59423828125px;
+}
+.LandingPage_LandingPage .footer .Rectangle437 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1500px;
+	height: 680.59423828125px;
+	background : rgba(188.33698511123657,221.13725066184998,253.93750101327896,1);
+}
+.LandingPage_LandingPage .footer .BOTTOM {
+	position: absolute;
+	left: 149.369873046875px;
+	top: 569.6044921875px;
+	width: 79.77325032552083%;
+	height: 8.363913945261242%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Rectangle1copy35 {
+	position: absolute;
+	left: 15.73876953125px;
+	top: 0px;
+	width: 98.68470784655034%;
+	height: 2.0535078614868634%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands {
+	position: absolute;
+	left: 958.62548828125px;
+	top: 31.58349609375px;
+	width: 17.753383639357853%;
+	height: 44.51668796802223%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Shape327 {
+	position: absolute;
+	left: 174.10205078125px;
+	top: 0px;
+	width: 18.045207615777212%;
+	height: 99.21576939381094%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Shape328 {
+	position: absolute;
+	left: 179.7484130859375px;
+	top: 8.505859375px;
+	width: 12.380120003539655%;
+	height: 34.41558441558442%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Shape328_1 {
+	position: absolute;
+	left: 179.6893310546875px;
+	top: 8.51171875px;
+	width: 2.4355822791938317%;
+	height: 18.574896913175845%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Paypal {
+	position: absolute;
+	left: 116.06201171875px;
+	top: 0.1611328125px;
+	width: 17.908247054213053%;
+	height: 99.20998882423214%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Paypal .Shape327_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Paypal .Shape327copy {
+	position: absolute;
+	left: 0.0030517578125px;
+	top: 0px;
+	width: 98.60839264055652%;
+	height: 97.64993784959603%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Paypal .Shape335 {
+	position: absolute;
+	left: 2.995361328125px;
+	top: 8.40869140625px;
+	width: 46.91196005826975%;
+	height: 38.01079863269111%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Paypal .Shape335_1 {
+	position: absolute;
+	left: 20.21240234375px;
+	top: 8.3818359375px;
+	width: 39.047148440257466%;
+	height: 29.053371659415788%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Group19 {
+	position: absolute;
+	left: 57.86798095703125px;
+	top: 0px;
+	width: 18.030612280078746%;
+	height: 99.21576939381094%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Group19 .Shape327_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Group19 .Shape329 {
+	position: absolute;
+	left: 16.75537109375px;
+	top: 3.58984375px;
+	width: 46.883280988324756%;
+	height: 71.4260744596143%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Group19 .Shape329_1 {
+	position: absolute;
+	left: 2.997314453125px;
+	top: 3.5859375px;
+	width: 46.88662724458106%;
+	height: 71.43384280748091%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Group19 .MasterCard {
+	position: absolute;
+	left: 1.55609130859375px;
+	top: 8.2109375px;
+	width: 85.18962915513404%;
+	height: 43.81542405468917%;
+	color : rgba(255,255,255,1);
+	font-family: Arial;
+	font-size: 6px;
+	font-weight: 400;
+	line-height: 7.03125px;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Westernunion {
+	position: absolute;
+	left: 0px;
+	top: 0.19775390625px;
+	width: 18.035783855719938%;
+	height: 99.21962310686347%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Westernunion .Shape327_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Westernunion .WESTERNUNION {
+	position: absolute;
+	left: 2.995361328125px;
+	top: 8.38134765625px;
+	width: 68.74393664963752%;
+	height: 33.338512030761464%;
+}
+.LandingPage_LandingPage .footer .BOTTOM .Brands .Westernunion .Shape338 {
+	position: absolute;
+	left: 31.1343994140625px;
+	top: 8.37939453125px;
+	width: 10.935615781517075%;
+	height: 33.32880197308372%;
+}
+.LandingPage_LandingPage .footer .BOTTOM ._2018Ecommercethemebywwwbisenbaevcom {
+	position: absolute;
+	left: 0px;
+	top: 34.58349609375px;
+	width: 25.990332910755654%;
+	height: 29.86421458042048%;
+	color : rgba(193.00000369548798,200.00000327825546,206.0000029206276,1);
+	font-family: Proxima Nova;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.LandingPage_LandingPage .footer .LoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteverSincethe1500swhenanunknownprinter {
+	position: absolute;
+	left: 133.999755859375px;
+	top: 204.6201171875px;
+	width: 14.74013468424479%;
+	height: 11.019781799711161%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.0625px;
+}
+.LandingPage_LandingPage .footer .Group485 {
+	position: absolute;
+	left: 1050.71923828125px;
+	top: 165.552734375px;
+	width: 148.1092529296875px;
+	height: 109.26611328125px;
+}
+.LandingPage_LandingPage .footer .Group485 .ContactUs {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 68.19290355069722%;
+	height: 24.710314286097322%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .Group485 .EComm4578MarmoraRoadGlasgowD0489GR {
+	position: absolute;
+	left: 0px;
+	top: 46.26611328125px;
+	width: 100%;
+	height: 57.657400000893745%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.LandingPage_LandingPage .footer .OurOffers {
+	position: absolute;
+	left: 133.99990844726562px;
+	top: 360.49365234375px;
+	width: 80.05941569010416%;
+	height: 21.40664357964985%;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group486 {
+	position: absolute;
+	left: 1046.4786071777344px;
+	top: 4.57177734375px;
+	width: 154.41259765625px;
+	height: 129.97705078125px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group486 .OurOffers_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 59.58063098245936%;
+	height: 20.772897859823512%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group486 .AboutUsInfomationPrivacyPolicyTermsConditions {
+	position: absolute;
+	left: 2.41259765625px;
+	top: 45.97705078125px;
+	width: 98.43756423188937%;
+	height: 64.62679334167315%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group487 {
+	position: absolute;
+	left: 708.0220947265625px;
+	top: 0px;
+	width: 151.99996948242188px;
+	height: 129.97705078125px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group487 .MyAccount {
+	position: absolute;
+	left: 0.5546875px;
+	top: 0px;
+	width: 69.73683602922058%;
+	height: 20.772897859823512%;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group487 .MyAccount .MyAccount_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group487 .AboutUsInfomationPrivacyPolicyTermsConditions_1 {
+	position: absolute;
+	left: 0px;
+	top: 45.97705078125px;
+	width: 100%;
+	height: 64.62679334167315%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group488 {
+	position: absolute;
+	left: 354.010986328125px;
+	top: 0px;
+	width: 151.99996948242188px;
+	height: 145.6923828125px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group488 .Service {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 43.42106134937916%;
+	height: 18.53219741401846%;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group488 .Service .Service_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group488 .AboutUsInfomationPrivacyPolicyTermsConditions_2 {
+	position: absolute;
+	left: 0px;
+	top: 61.6923828125px;
+	width: 100%;
+	height: 57.65572528805743%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group489 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 151.99998474121094px;
+	height: 140.97705078125px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group489 .Infomation {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65.13158548571792%;
+	height: 19.152053366398704%;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group489 .Infomation .Infomation_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .OurOffers .Group489 .AboutUsInfomationPrivacyPolicyTermsConditions_3 {
+	position: absolute;
+	left: 0px;
+	top: 56.97705078125px;
+	width: 100%;
+	height: 59.58416602879597%;
+	color : rgba(38.0000015348196,38.0000015348196,38.0000015348196,1);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.LandingPage_LandingPage .footer .FollowUs {
+	position: absolute;
+	left: 663.4765625px;
+	top: 161.62109375px;
+	width: 5.6000000000000005%;
+	height: 3.967121447896018%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .EComm_1 {
+	position: absolute;
+	left: 180.10888671875px;
+	top: 154.62109375px;
+	width: 5.6000000000000005%;
+	height: 3.967121447896018%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 21.09375px;
+}
+.LandingPage_LandingPage .footer .Sincethe1500swhenanunknownprintertookagalleyoftypeandscrambled {
+	position: absolute;
+	left: 663.4765625px;
+	top: 207.88671875px;
+	width: 13.200000000000001%;
+	height: 6.611869079826696%;
+	color : rgba(34.00000177323818,38.0000015348196,42.000001296401024,1);
+	font-family: Proxima Nova;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.0625px;
+}
+.LandingPage_LandingPage .footer .twitter {
+	position: absolute;
+	left: 711.96826171875px;
+	top: 277.6171875px;
+	width: 0.9755330403645833%;
+	height: 1.7473098029424827%;
+}
+.LandingPage_LandingPage .footer .facebook {
+	position: absolute;
+	left: 665.03759765625px;
+	top: 275.6201171875px;
+	width: 0.5097066243489583%;
+	height: 2.2230400966526696%;
+}
+.LandingPage_LandingPage .footer .Icon_1 {
+	position: absolute;
+	left: 134px;
+	top: 149.62255859375px;
+	width: 39px;
+	height: 39px;
+}
+.LandingPage_LandingPage .footer .Icon_1 .Rectangle383_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background : rgba(64.39745485782623,191.39898240566254,255,1);
+	border-radius: 16px;
+}
+.LandingPage_LandingPage .footer .Icon_1 .Group400_1 {
+	position: absolute;
+	left: 10.833343505859375px;
+	top: 10.83349609375px;
+	width: 44.444431402744385%;
+	height: 44.44486177884615%;
+}
+.LandingPage_LandingPage .footer .Icon_1 .Group400_1 .Group389_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .footer .Icon_1 .Group400_1 .Group389_1 .Vector40Stroke_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
